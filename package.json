@@ -41,7 +41,7 @@
     "backend",
     "front-end"
   ],
-  "repository": "mathematic-inc/ts-japi",
+  "repository": "dohyper/jsonapi.hyper",
   "engines": {
     "node": ">=10"
   },
